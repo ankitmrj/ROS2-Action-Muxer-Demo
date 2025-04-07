@@ -1,0 +1,8 @@
+# Goal
+string id
+---
+# Result
+bool success
+---
+# Feedback
+float32 percentage
